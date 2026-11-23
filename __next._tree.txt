@@ -1,0 +1,5 @@
+:HL["/Vareo/_next/static/chunks/3znsf3csqnn6-.css","style"]
+:HL["/Vareo/vareo-logo.png","image"]
+:HL["/Vareo/vareo-produkter.webp","image",{"fetchPriority":"high"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"fKo74yb5uhlwBmTxZBDBP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
