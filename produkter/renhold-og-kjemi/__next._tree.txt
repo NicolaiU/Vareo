@@ -1,0 +1,9 @@
+:HL["/Vareo/_next/static/chunks/1zpfpet5lqwi_.css","style"]
+:HL["/Vareo/_next/static/chunks/0tjr3cccwxse4.css","style"]
+:HL["/Vareo/_next/static/media/instrument_sans-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Vareo/vareo-wordmark-white.png","image"]
+:HL["/Vareo/kategorier/renhold-illustrasjon.webp","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"renhold-og-kjemi","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"produkter","h":131168,"c":"$Q2"}]]
+0:{"b":"NFo7pJw7paoKOszba2zjt","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
