@@ -1,5 +1,6 @@
-:HL["/Vareo/_next/static/chunks/3znsf3csqnn6-.css","style"]
-:HL["/Vareo/vareo-logo.png","image"]
-:HL["/Vareo/vareo-produkter.webp","image",{"fetchPriority":"high"}]
+:HL["/Vareo/_next/static/chunks/21h4hxcip_0_m.css","style"]
+:HL["/Vareo/_next/static/media/instrument_sans-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Vareo/vareo-renhold.webp","image",{"fetchPriority":"high"}]
+:HL["/Vareo/vareo-wordmark-white.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"fKo74yb5uhlwBmTxZBDBP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"rYWRHdSJkPsFWqsxyStov","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

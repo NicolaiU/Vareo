@@ -1,0 +1,8 @@
+:HL["/Vareo/_next/static/chunks/21h4hxcip_0_m.css","style"]
+:HL["/Vareo/_next/static/chunks/0o25sucskzci0.css","style"]
+:HL["/Vareo/_next/static/media/instrument_sans-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Vareo/vareo-wordmark-white.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"velix-move","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"produkter","h":131168,"c":"$Q2"}]]
+0:{"b":"rYWRHdSJkPsFWqsxyStov","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
